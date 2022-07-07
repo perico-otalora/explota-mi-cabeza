@@ -5,4 +5,4 @@ Este juego es el proyecto final de la asignatura de primer curso Fundamentos de 
 
 El proyecto ha sido realizado entre enero y mayo de 2022.
 
-El desarrollo de código y gráficos ha sido realizado íntegramente por Pedro Otálora
+El desarrollo de código y gráficos ha sido realizado íntegramente por Pedro Otálora.
