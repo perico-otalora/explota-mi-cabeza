@@ -1,7 +1,7 @@
 # ¡¡Explota mi cabeza!!
 Mini juego de habilidad para 2 jugadores
 
-![Pantalla de presentación del juego.](/main/screenshots/image1.png)
+![Pantalla de presentación del juego.](screenshots/image1.png)
 
 Este juego es el proyecto final de la asignatura de primer curso Fundamentos de Programación, que pertenece al Grado en Gestión de Información y Contenidos Digitales de la Universidad de Murcia.
 
